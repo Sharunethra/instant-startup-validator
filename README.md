@@ -85,8 +85,8 @@ Both team members contributed to concept development, prompt engineering, evalua
 Project Links
 
 GitHub Repository: https://github.com/Sharunethra/instant-startup-validator
-Kaggle Writeup: 
-Demo Video: 
+Kaggle Writeup: https://www.kaggle.com/competitions/gemini-3/writeups/new-writeup-1765190200739
+Demo Video: https://youtu.be/3IqLgVBuy7o?si=N6uvrDfAU5S3OnEH
 
 License
 
